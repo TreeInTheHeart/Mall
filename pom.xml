@@ -17,5 +17,6 @@
 		<module>renren-fast</module>
 		<module>renren-generator</module>
 		<module>cumtbmall-common</module>
+		<module>cumtbmall-gateway</module>
 	</modules>
 </project>

@@ -8,7 +8,7 @@
 
 package com.atgs.common.xss;
 
-import io.renren.common.exception.RRException;
+import com.atgs.common.utils.RRException;
 import org.apache.commons.lang.StringUtils;
 
 /**
